@@ -2,25 +2,25 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: 192.168.1.118 PC AARÓN
   structure:
-    - type: section
-      key: section-2
-      title: 192.168.1.119 CLASE REDES
-      path: 192.168.1.119-clase-redes
-      default: true
-      children:
-        - type: space
-          key: space-2
-          title: 192.168.1.119 CLASE REDES
-          path: 192.168.1.119-clase-redes
-          default: true
-          draft: true
-          content:
-            directory: ./192.168.1.119-clase-redes
     - type: section-group
       key: section-group-1
       title: 192.168.1.120 CLASE REDES
       draft: true
-      children: []
+      children:
+        - type: section
+          key: section-2
+          title: 192.168.1.119 CLASE REDES
+          path: 192.168.1.119-clase-redes
+          default: true
+          children:
+            - type: space
+              key: space-2
+              title: 192.168.1.119 CLASE REDES
+              path: 192.168.1.119-clase-redes
+              default: true
+              draft: true
+              content:
+                directory: ./192.168.1.119-clase-redes
     - type: section
       key: section-1
       title: Copy of 192.168.1.119 CLASE REDES
