@@ -1,8 +1,12 @@
 # Table of contents
 
+## CREACION GITBOOK
+
+* [CREACIÓN PÁGINA DE GITBOOK](README.md)
+
 ## RA 1
 
-* [Documentación Gitbook](README.md)
+* [PREGUNTAS SOBRE LA RED](ra-1/preguntas-sobre-la-red.md)
 
 ## RA 2
 
