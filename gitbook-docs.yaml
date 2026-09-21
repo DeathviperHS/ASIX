@@ -1,4 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: 192.168.1.118 PC AARÓN
-  structure: []
+  structure:
+    - type: space
+      key: space-1
+      title: Docs
+      path: docs
+      default: true
+      content:
+        directory: ./docs
