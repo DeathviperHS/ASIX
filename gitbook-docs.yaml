@@ -3,22 +3,10 @@ site:
   title: 192.168.1.118 PC AARÓN
   structure:
     - type: section
-      key: section-1
-      title: 192.168.1.118 PC AARÓN
-      path: 192.168.1.118-pc-aaron
-      default: true
-      children:
-        - type: space
-          key: space-1
-          title: Docs
-          path: docs
-          default: true
-          content:
-            directory: ./docs
-    - type: section
       key: section-2
       title: 192.168.1.119 CLASE REDES
       path: 192.168.1.119-clase-redes
+      default: true
       children:
         - type: space
           key: space-2
