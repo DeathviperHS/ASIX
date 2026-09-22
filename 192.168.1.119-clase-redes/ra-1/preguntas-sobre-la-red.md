@@ -17,6 +17,43 @@
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+* **¿Cuáles son los fundamentos físicos y lógicos a considerar?**
+
+Fundamentos físicos:
+
+1. Medios de transmisión y naturaleza de la señal
+
+\- Guiados: Cables y fibra óptica (voltaje/fotones)- No guiados: ondas de radio, microondas o infrarrojo (ondas electromagnéticas)
+
+1. Ancho de banda físico y velocidad:
+
+La cantidad máxima de datos que puede transmitir un medio
+
+1. Perturbaciones de la transmisión:
+
+\- Atenuación- Ruido e interferenciaFundamentos lógicos:
+
+1. Modelos de referencia; OSI, TCP/IP
+2. Protocolos de comunicación; IP, TCP, UDP, HTTP/HTTPS
+3. Conmutación y Enrutamiento
+
+* **¿Qué dispositivos de red tenemos que aprender a configurar? ¿Qué son los protocolos? ¿Cuál es su uso?**
+
+Los equipos clave que debes dominar en redes informáticas se dividen entre el hardware que gestiona el tráfico y las reglas virtuales (protocolos) que hacen posible la comunicación.Los dispositivos de red a aprender:
+
+* Router (Enrutador)
+* Switch (Conmutador)
+* Firewall (Cortafuegos)
+* Punto de Acceso Inalámbrico (WAP / AP)
+* Módem
+
+Un protocolo es un conjunto de reglas definidas que determinan cómo se codifican, transmiten, reciben e interpretan los datos entre dos o más equipos de una red.Principales usos de los protocolos:
+
+* IP: Se encarga de direccionar y enviar los paquetes de datos a su destino.
+* HTTP / HTTPS: Permite la transferencia de páginas web en el navegador.
+* TC&#x50;**:** Garantiza que los datos lleguen completos y en orden sin errores.
+* DNS: Traduce las direcciones IP a nombres de dominios fáciles de leer.
+
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * Software defined networking (denominado SDN) es una arquitectura de red, con la que se puede configurar y gestionar las redes a partir de un software, sin ningun tipo de equipo electronico fisico
