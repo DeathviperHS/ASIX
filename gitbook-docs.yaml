@@ -5,7 +5,6 @@ site:
     - type: section-group
       key: section-group-1
       title: 192.168.1.119 CLASE REDES
-      draft: true
       children:
         - type: section
           key: section-2
