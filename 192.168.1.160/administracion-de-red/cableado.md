@@ -21,3 +21,5 @@ Normas de los cables EIA - TIA - 568A y B
 Que son los pares de los cables
 
 RJ45- RJ49 -RJ11-RS232(CONSOLA)
+
+Que tipos de cable podria utilizar en industrias o cerca de equipamiento electrico?
