@@ -24,16 +24,16 @@ site:
     - type: section-group
       key: section-group-2
       title: 192.168.1.155
-      children: []
-    - type: section
-      key: section-1
-      title: 192.168.1.160
-      path: 192.168.1.160
       children:
-        - type: space
-          key: space-1
+        - type: section
+          key: section-1
           title: 192.168.1.160
           path: 192.168.1.160
-          default: true
-          content:
-            directory: ./192.168.1.160
+          children:
+            - type: space
+              key: space-1
+              title: 192.168.1.160
+              path: 192.168.1.160
+              default: true
+              content:
+                directory: ./192.168.1.160
