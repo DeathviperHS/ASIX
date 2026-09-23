@@ -1,26 +1,23 @@
 # Preguntas Iniciales sobre la red
 
-
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Una red es una infraestructura con la que los usuarios que la utilizan, pueden comunicarse con otras personas con las que no están localmente
 * La importancia de una red es importante, ya que actualmente, estamos en una sociedad en la que los usuarios estamos conectados todos virtualmente y toda la información que tenemos hoy en dia esta digitalizada y sin red, no podriamos acceder a ella, hubo un dia que se fue la luz en toda españa, y todo el mundo no podia acceder a su dinero durante todo el dia ni tampoco informarse
-*   ​
-
-    | Aspecto                   | Técnico en Sistemas y Redes (ASIX)                                                                                               | Analista de Ciberseguridad / SecOps                                                                                                            |
-    | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-    | **Ámbito de trabajo**     | Instalación, configuración y mantenimiento de sistemas informáticos, servidores y redes.                                         | Protección de sistemas y redes, detección de amenazas y respuesta ante incidentes de seguridad.                                                |
-    | **Funciones principales** | Administrar servidores, configurar redes, gestionar usuarios, realizar copias de seguridad y solucionar problemas técnicos.      | Monitorizar eventos de seguridad, investigar alertas, detectar ataques, analizar malware y responder a incidentes.                             |
-    | **Salidas profesionales** | Técnico de sistemas, administrador de redes, administrador de sistemas, técnico de soporte o responsable de infraestructura.     | Analista SOC, analista de ciberseguridad, especialista en respuesta a incidentes, analista de amenazas o técnico de seguridad.                 |
-    | **Herramientas clave**    | Windows Server, Linux, Active Directory, VMware/VirtualBox, Cisco, Docker, herramientas de monitorización y copias de seguridad. | SIEM como Splunk, Wazuh o Microsoft Sentinel, Wireshark, herramientas EDR/XDR, Nmap, Kali Linux y plataformas de análisis de vulnerabilidades. |
+* | Aspecto                   | Técnico en Sistemas y Redes (ASIX)                                                                                               | Analista de Ciberseguridad / SecOps                                                                                                            |
+  | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+  | **Ámbito de trabajo**     | Instalación, configuración y mantenimiento de sistemas informáticos, servidores y redes.                                         | Protección de sistemas y redes, detección de amenazas y respuesta ante incidentes de seguridad.                                                |
+  | **Funciones principales** | Administrar servidores, configurar redes, gestionar usuarios, realizar copias de seguridad y solucionar problemas técnicos.      | Monitorizar eventos de seguridad, investigar alertas, detectar ataques, analizar malware y responder a incidentes.                             |
+  | **Salidas profesionales** | Técnico de sistemas, administrador de redes, administrador de sistemas, técnico de soporte o responsable de infraestructura.     | Analista SOC, analista de ciberseguridad, especialista en respuesta a incidentes, analista de amenazas o técnico de seguridad.                 |
+  | **Herramientas clave**    | Windows Server, Linux, Active Directory, VMware/VirtualBox, Cisco, Docker, herramientas de monitorización y copias de seguridad. | SIEM como Splunk, Wazuh o Microsoft Sentinel, Wireshark, herramientas EDR/XDR, Nmap, Kali Linux y plataformas de análisis de vulnerabilidades. |
 
 LINKS: [https://chatgpt.com/es-ES/](https://chatgpt.com/es-ES/)
 
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
-Pregunta 2
 
-* \
-  **¿Cuáles son los fundamentos físicos y lógicos a considerar?**
+* **¿Cuáles son los fundamentos físicos y lógicos a considerar?**
 
 Fundamentos físicos:
 
@@ -61,7 +58,7 @@ LINKS: [https://chatgpt.com/es-ES/](https://chatgpt.com/es-ES/)
 
 
 
-Pregunta 3
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -74,3 +71,4 @@ Pregunta 3
 
 LINKS: [https://chatgpt.com/es-ES/](https://chatgpt.com/es-ES/)
 
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
