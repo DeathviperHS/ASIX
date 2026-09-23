@@ -13,7 +13,7 @@
     | **Salidas profesionales** | Técnico de sistemas, administrador de redes, administrador de sistemas, técnico de soporte o responsable de infraestructura.     | Analista SOC, analista de ciberseguridad, especialista en respuesta a incidentes, analista de amenazas o técnico de seguridad.                 |
     | **Herramientas clave**    | Windows Server, Linux, Active Directory, VMware/VirtualBox, Cisco, Docker, herramientas de monitorización y copias de seguridad. | SIEM como Splunk, Wazuh o Microsoft Sentinel, Wireshark, herramientas EDR/XDR, Nmap, Kali Linux y plataformas de análisis de vulnerabilidades. |
 
-
+LINKS: [https://chatgpt.com/es-ES/](https://chatgpt.com/es-ES/)
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,6 +54,8 @@ Un protocolo es un conjunto de reglas definidas que determinan cómo se codifica
 * TC&#x50;**:** Garantiza que los datos lleguen completos y en orden sin errores.
 * DNS: Traduce las direcciones IP a nombres de dominios fáciles de leer.
 
+LINKS: [https://chatgpt.com/es-ES/](https://chatgpt.com/es-ES/)
+
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * Software defined networking (denominado SDN) es una arquitectura de red, con la que se puede configurar y gestionar las redes a partir de un software, sin ningun tipo de equipo electronico fisico
@@ -62,6 +64,8 @@ Un protocolo es un conjunto de reglas definidas que determinan cómo se codifica
 * Los contenedores son paquetes de informacion donde podemos guardar imagenes, url, ficheros o cualquier cosa que podamos digitalizar
 * La diferencia que hay entre un router tradicional y usar un SDN es que el router es hardware y el SDN es software, es decir, que el router es fisico y SDN es digital, la ventaja que tiene el router a diferencia de SDN, es que es fisico y se administra todo desde el hardware y da pulsos magneticos a los dispositivos para conectarlos a una red wifi o mediante cable a puertos RJ45 y si reseteas el dispositivo donde tienes el SDN, lo pierdes, con el router no y las configuraciones se guardan dentro del router y no del ordenador. Y la ventaja del SDN frente al router, es que no necesitas ningun dispositivo fisico y no necesitas que el dispositivo este cerca del dispositivo anfitrion para tener la maxima red disponible
 * El alcance de la IA en las redes hoy en dia es masivo, cualquier persona hoy en dia, la ha utilizado o a escuchado hablar de ella, hoy en dia la ia aprende con el computer learning, es decir la ia aprende a partir de patrones que les envian los usuarios y con informacion con la que puede sacar en interenet, hoy en dia la ia es capaz de detectar las anomalias gracias a lo comentado anteriormente, ya que la ia aprende a base de patrones, y cuando ve algo que no va acorde de lo que a aprendido
+
+LINKS: [https://chatgpt.com/es-ES/](https://chatgpt.com/es-ES/)
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
