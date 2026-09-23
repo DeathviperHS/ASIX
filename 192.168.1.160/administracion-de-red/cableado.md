@@ -23,3 +23,16 @@ Que son los pares de los cables
 RJ45- RJ49 -RJ11-RS232(CONSOLA)
 
 Que tipos de cable podria utilizar en industrias o cerca de equipamiento electrico?
+
+
+
+El cableado UTP que utilizamos en clase es un XXXXX y sus caracteisiticas son XXXXX.
+
+Las normativas de los cables son:
+
+* TIA 568A
+* TIA 568B
+* TIA 568 C
+
+
+
