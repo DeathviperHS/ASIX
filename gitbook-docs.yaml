@@ -35,6 +35,5 @@ site:
           title: 192.168.1.160
           path: 192.168.1.160
           default: true
-          draft: true
           content:
             directory: ./192.168.1.160
