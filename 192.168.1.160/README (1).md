@@ -1,6 +1,6 @@
 # Preguntas Iniciales sobre la red
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Una red es una infraestructura con la que los usuarios que la utilizan, pueden comunicarse con otras personas con las que no están localmente
 * La importancia de una red es importante, ya que actualmente, estamos en una sociedad en la que los usuarios estamos conectados todos virtualmente y toda la información que tenemos hoy en dia esta digitalizada y sin red, no podriamos acceder a ella, hubo un dia que se fue la luz en toda españa, y todo el mundo no podia acceder a su dinero durante todo el dia ni tampoco informarse
@@ -13,7 +13,7 @@
 
 LINKS: [https://chatgpt.com/es-ES/](https://chatgpt.com/es-ES/)
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

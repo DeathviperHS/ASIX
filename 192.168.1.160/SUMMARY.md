@@ -14,3 +14,4 @@
 * [Cables estructurados](administracion-de-red/cables-estructurados.md)
 * [Herramientas de diseño](administracion-de-red/herramientas-de-diseno.md)
 * [En casa](administracion-de-red/en-casa.md)
+* [Diseña y Crea](administracion-de-red/disena-y-crea.md)
