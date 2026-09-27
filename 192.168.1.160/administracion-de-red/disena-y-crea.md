@@ -10,7 +10,7 @@ Vamos a utilizar Draw.IO, la mencione anteriormente y es la que vamos a utilizar
 
 Esta seria la topologia de mi casa, tengo un router, que se llama Router ZTE F6600, ya que ese es el modelo de mi router, que tiene 4 cables conectados, donde podemos ver, hay 3 ordenadores conectados por cable y 1 SMART TV, y la IP que hay adjuntada al PC 1 es la de mi PC como podemos comprobar en la siguiente imagen.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Donde pone "DIRECCION IPV4:", es la IP que me genera el router mediante DHCP, es decir que cada vez que me conecte al dispositivo, me va a generar una IP distinta
 
