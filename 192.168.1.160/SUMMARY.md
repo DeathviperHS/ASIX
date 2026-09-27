@@ -12,3 +12,4 @@
 * [Cableado](administracion-de-red/cableado.md)
 * [Fibra Optica](administracion-de-red/fibra-optica.md)
 * [Cables estructurados](administracion-de-red/cables-estructurados.md)
+* [Herramientas de diseño](administracion-de-red/herramientas-de-diseno.md)
