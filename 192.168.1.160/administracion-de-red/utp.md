@@ -1,6 +1,6 @@
 # UTP
 
-Los cables que estamos utilizando en clase son cable de alimentacion de la compañia excel con las caracteristicas: cat6 y 23AWS, lo acompaña un cable de red de conector RJ45 .
+Los cables que estamos utilizando en clase son cable de alimentacion de la compañia excel con las caracteristicas: cat6 y 23AWS, lo acompaña un cable de red de conector RJ45, cable cat6, de compañia excel .
 
 Las normativas de estos cables de alimentacion y comunicacion son los siguientes:
 
