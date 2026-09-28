@@ -1,6 +1,6 @@
 # UTP
 
-Los cables que estamos utilizando en clase son cable de red ethernet con conectores RJ45 de la compañia X con las caracteristicas X, lo acompaña un cable de alimentacion de 12V.
+Los cables que estamos utilizando en clase son cable de alimentacion de la compañia excel con las caracteristicas: cat6 y 23AWS, lo acompaña un cable de red de conector RJ45 .
 
 Las normativas de estos cables de alimentacion y comunicacion son los siguientes:
 
