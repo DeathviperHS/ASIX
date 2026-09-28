@@ -6,7 +6,7 @@ Vamos a crear la red de mi casa y vamos a poner alguna IP que sepamos.
 
 Vamos a utilizar Draw.IO, la mencione anteriormente y es la que vamos a utilizar ya que es facil y orientativo, tiene plantillas ya creadas, podemos guardarlo en la nube y podemos usarlo de manera online o offline, como prefiramos nosotros.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Esta seria la topologia de mi casa, tengo un router, que se llama Router ZTE F6600, ya que ese es el modelo de mi router, que tiene 4 cables conectados, donde podemos ver, hay 3 ordenadores conectados por cable y 1 SMART TV, y la IP que hay adjuntada al PC 1 es la de mi PC como podemos comprobar en la siguiente imagen.
 
