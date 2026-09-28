@@ -6,7 +6,11 @@ Las normativas de estos cables de alimentacion y comunicacion son los siguientes
 
 **ALIMENTACION**
 
+Reglamento Electrotécnico de Baja Tensión (REBT): Es una norma española que dice que los cables de alimentacion debe ser de baja tension, para que no hayan perturbaciones, grantizarl la seguridad y promover eficacias viables y fiables
 
+Sección de cables: Pide que la potencia sea baja para que haya poca reaccion de fuego si hay cortocircuito
+
+Clasificación CPR (Reacción al fuego): Es un tipo de marcaje que indica la reaccion del cable ante el fuego, tambien tiene marcas para acido, humo o gotas de particulas
 
 
 
