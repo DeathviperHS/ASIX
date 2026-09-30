@@ -16,3 +16,4 @@
 * [Herramientas de diseño](administracion-de-red/herramientas-de-diseno.md)
 * [En casa](administracion-de-red/en-casa.md)
 * [Diseña y Crea](administracion-de-red/disena-y-crea.md)
+* [Creacion de un cable ethernet](administracion-de-red/creacion-de-un-cable-ethernet.md)
