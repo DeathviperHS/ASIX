@@ -18,3 +18,10 @@
 * [Diseña y Crea](administracion-de-red/disena-y-crea.md)
 * [Creacion de un cable ethernet](administracion-de-red/creacion-de-un-cable-ethernet.md)
 * [Direccionamiento IP](administracion-de-red/direccionamiento-ip.md)
+
+## Cisco
+
+***
+
+* [Cisco Ejercicio 1.0.5](cisco-ejercicio-1.0.5.md)
+* [Cisco Ejercicio 2.9.1](cisco-ejercicio-2.9.1.md)
