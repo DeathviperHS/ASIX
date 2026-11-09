@@ -25,3 +25,6 @@
 
 * [Cisco Ejercicio 1.0.5](cisco-ejercicio-1.0.5.md)
 * [Cisco Ejercicio 2.9.1](cisco-ejercicio-2.9.1.md)
+* [Cisco Ejercicio 1.5.7](cisco-ejercicio-1.5.7.md)
+* [Cisco Ejercicio 2.5.5](cisco-ejercicio-2.5.5.md)
+* [Cisco Ejercicio 9.2.9](cisco-ejercicio-9.2.9.md)
