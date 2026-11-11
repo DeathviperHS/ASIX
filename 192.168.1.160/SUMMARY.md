@@ -28,5 +28,7 @@
 * [Cisco Ejercicio 1.5.7](cisco-ejercicio-1.5.7.md)
 * [Cisco Ejercicio 2.5.5](cisco-ejercicio-2.5.5.md)
 * [Cisco Ejercicio 9.2.9](cisco-ejercicio-9.2.9.md)
-* [🛜 Router Cisco](router-cisco/README.md)
-  * [Router Cisco 2810 Series](router-cisco/router-cisco-2810-series.md)
+
+## 🛜 Router Cisco
+
+* [Router Cisco 2810 Series](router-cisco/router-cisco-2810-series.md)
